@@ -24,3 +24,6 @@ what was modified
 
 #### copyright
 copyright notice
+
+## how to contribute
+adding instructions on how to contribute
