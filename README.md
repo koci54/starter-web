@@ -23,7 +23,7 @@ what was modified
 
 
 #### copyright
-copyright notice
+copyright notice. all rights reserved.
 
 ## how to contribute
 adding instructions on how to contribute
