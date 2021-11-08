@@ -2,7 +2,7 @@
 a brief introduction to git.
 
 # Starter Web Repo
-
+emergency fix after stash
 adding a line for rebasing example, then more changes from feature branch.
 This repository is for showing how Git and GitHub work
 
